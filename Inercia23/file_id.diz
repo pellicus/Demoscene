@@ -1,0 +1,17 @@
+TorOld but Gold!
+
+Author:     Pellicus
+Category:   512 bytes Fantasy Console Intros
+System:     TIC-80
+Description:
+Everybody knows it!
+You are not a real coder if you ain’t never done an Intro with a good old toroid in the middle! :D
+Thanks and Greetings go to Fabrice Neyret for inspiring me, Superogue, Gigabates, Pestis and Phaze101's people.
+The realization of this Intro was possible thanks to the support and approval of my beloved Vix
+...as well as the patience of my daughters :D
+
+(run it on TIC80 with CRT Monitor option ON)
+
+Comments:
+- pakettic by Pestis was used
+- SDF/Raymarching, dithering, old style water mirror by copying part of the screen, rotozoomer
