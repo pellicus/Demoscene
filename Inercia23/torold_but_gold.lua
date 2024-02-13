@@ -1,4 +1,4 @@
-
+--https://github.com/pellicus/Demoscene/raw/main/Inercia23/TIC80_512b_TorOld_but_Gold_by_Pellicus_Inercia2023.zip
 function TIC()
     T=time()/4000
     cx,cy =  math.sin(T*2-11)*-2, math.sin(T)*-3
